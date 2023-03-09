@@ -1,0 +1,5 @@
+[DEBUG][2023-03-09 13:32:26] debug message
+[INFO][2023-03-09 13:32:26] info message
+[WARNING][2023-03-09 13:32:26] warn message
+[ERROR][2023-03-09 13:32:26] error message
+[FATAL][2023-03-09 13:32:26] fatal message
