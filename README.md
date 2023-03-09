@@ -1,2 +1,1 @@
-# ribin-tiny-chat
-a tiny chat room by Cpp
+用来写一点C++的测试代码
